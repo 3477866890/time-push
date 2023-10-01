@@ -2,7 +2,8 @@
   "app_secret": "2ad1a675a101a9972b59f7a08f648740",
   "template_id": "ZPH_XtzH_VjP6F4ccX4f50AdpoXtAYmGXhWYN49LtK0",
   "user": ["o0nEX6JaYyaocNqlsqLIlHuinvJk", ""], 
-  "province": "山东", "city": "泰安",
+  "province": "山东",
+  "city": "泰安",
   "birthday1": "2000-09-30", "birthday2": "2002-11-05",
   "birthday3": "1997-01-03", "love_date": "2023-09-30",
   "Whether_Eng": "True",
@@ -12,4 +13,5 @@
   "Whether_health": true, 
   "Whether_lucky": true,
   "tianxing_API": "c11abc6136f0a5b6a60423d519d89ca4",
+  "url" = 'http://api.tianapi.com/txapi/lzmy/index?key=c11abc6136f0a5b6a60423d519d89ca4'
   "astro": "\u5929\u874e\u5ea7"}
